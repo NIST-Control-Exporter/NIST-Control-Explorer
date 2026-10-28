@@ -40,7 +40,7 @@ The included `nist-catalog.json` is an OSCAL JSON catalog for **NIST SP 800-53 R
 To use a newer catalog:
 
 1. Get the updated **OSCAL JSON catalog** from [NIST's OSCAL content repository](https://github.com/usnistgov/oscal-content).
-2. Replace `nist-catalog.json` with the updated file, keeping the same filename.
+2. Replace `nist-catalog.json` with the updated file.
 3. Run the exporter again.
 
 You can also keep multiple catalogs and enter the path to a different JSON file when the script asks for **Catalog JSON file**. Press Enter to use the default `nist-catalog.json` alongside the script.
