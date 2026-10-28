@@ -59,4 +59,4 @@ The exporter reads the local catalog and creates a Markdown document with the se
 
 The catalog content comes from NIST; the Python exporter is a separate project and is not an official NIST tool.
 
-View the web version of this tool at [https://nistcontrolexplorer.com](https://nistcontrolexplorer.com)
+View the web version of this tool at [https://ctrlfamily.com](https://ctrlfamily.com)
