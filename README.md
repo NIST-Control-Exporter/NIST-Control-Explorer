@@ -4,10 +4,7 @@ A small Python command-line tool for exporting NIST SP 800-53 controls from an [
 
 Select an entire control family or specific controls and enhancements. The exporter preserves control structure and can include discussion text and related controls.
 
-## Requirements
-
-- Python 3.10 or newer
-- No additional Python packages
+**Requires Python 3.10 or newer**
 
 ## Getting started
 
@@ -61,3 +58,5 @@ The exporter reads the local catalog and creates a Markdown document with the se
 - `nist-catalog.json` — source control catalog published by NIST
 
 The catalog content comes from NIST; the Python exporter is a separate project and is not an official NIST tool.
+
+View the web version of this tool at [https://nistcontrolexplorer.com](https://nistcontrolexplorer.com)
