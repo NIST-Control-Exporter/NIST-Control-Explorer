@@ -1,4 +1,4 @@
-# NIST Control Exporter
+# CtrlFamily - NIST Control Exporter
 
 A small Python command-line tool for exporting NIST SP 800-53 controls from an [OSCAL](https://pages.nist.gov/OSCAL/) JSON catalog into readable Markdown files.
 
